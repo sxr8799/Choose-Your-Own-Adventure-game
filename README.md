@@ -1,2 +1,3 @@
-# Choose-Your-Own-Adventure-game
-A simple Choose Your Own Adventure game.
+# Choose Your Own Adventure game.
+
+This is an implementation of a simple Choose Your Own Adventure game.
